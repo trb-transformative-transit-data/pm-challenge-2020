@@ -55,8 +55,15 @@ Winners will be announced during the January 2020 TRB Annual Meeting in Washingt
 
 # Sample Data
 
-* [Metro Transit MN](sample_metro_transit_mn)
-* [RTD Denver](sample_RTD_denver)
+## Metro Transit MN
+
+* [Information](sample_metro_transit_mn)
+* [Datasets on Github](https://github.com/trb-transformative-transit-data/pm-challenge-2020/tree/master/sample_metro_transit_mn)
+
+## RTD Denver
+
+* [Information](sample_RTD_denver)
+* [Datasets on GitHub](https://github.com/trb-transformative-transit-data/pm-challenge-2020/tree/master/sample_RTD_denver)
 
 # Sponsoring Committees/Sub Committees
 
