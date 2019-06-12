@@ -2,7 +2,7 @@
 title: 2020 TRB Innovations in Transit Performance Measurement Challenge
 ---
 
-**[pdf version here](TRB_Transit_Performance_Challenge_Flyer_2020.pdf)**
+**[pdf version here](https://github.com/trb-transformative-transit-data/pm-challenge-2020/blob/master/TRB_Transit_Performance_Challenge_Flyer_2020.pdf)**
 
 # Objective
 
