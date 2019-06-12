@@ -2,7 +2,7 @@
 title: Sample Data: RTD Rolling Assets Technical Break Down and Operational Data Set
 ---
 
-## Rolling Assets Technical Break Down and Operational Data Set
+## RTD Rolling Assets Technical Break Down and Operational Data Set
 
 [_Gemechisa.ayana@rtd-denver.com_](mailto:Gemechisa.ayana@rtd-denver.com)
 
@@ -10,7 +10,7 @@ _07/09/2018_
 
 The data set is for fleets break downs (technical symptom cause) and operational customers count on a route and trip level. There are five types of data set of breakdown and operational trip information
 
-1. **[Break down information](https://github.com/trb-innovations/transit-performance-challenge/blob/master/Denver%20RTD/Fleets%20Technical%20Breakdown0117to0618.csv)** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
+1. **Break down information** – Has the duration of the breakdown, on the route name, date time stamp with the technical symptom codes. (Fleets technical breakdown0117to0618.csv)
 
     **Meta Data**
     
@@ -42,7 +42,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
 
 
 
-2.  **[Trip Information](https://github.com/trb-innovations/transit-performance-challenge/tree/master/Denver%20RTD/Trip%20Information)** – Has Information about the Vehicle trips, all trips performed by Vehicle during a day.
+2.  **Trip Information** – Has Information about the Vehicle trips, all trips performed by Vehicle during a day.
 
     **Meta Data**
 
@@ -114,7 +114,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
     3/31/2018,4308986,,1498063387,1498063301,0,52206,52200,54420,54340,4342329,2157,8949665,860435638,E-Bound,0,2157,9050373,111687496
 
 
-3. **[Vehicle Trip Passenger](https://github.com/trb-innovations/transit-performance-challenge/tree/master/Denver%20RTD/Vehicle%20Trip%20Passenger)** – Lists of all trips performed by vehicles during a day with passenger information.
+3. **Vehicle Trip Passenger** – Lists of all trips performed by vehicles during a day with passenger information.
 
     The dataset for the the Q1 2018 Vehicle trip passenger (split into 6 smaller files) contains trip detail, route name and Vehicle Side Number can be found from **Vehicle Trip** using an event number, id from **nom\_vehicle** and Route name using &#39;Code&#39; from **Nom\_Line** respectively.
 
@@ -172,7 +172,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
     
     1/5/2017,9390,,1044961813,1044961807,13225,20089,20100,20940,20799,1000586,1074,6128212,266493530,N-Bound,0,,100,1074,1,6409788,110478038,15138,4,0.000000000000000,7,7,6.89315393747527
 
-4. **[Nom\_Line](Nom_Line.csv)** – Lists of all line definitions, aka RTD Routes
+4. **Nom\_Line** – Lists of all line definitions, aka RTD Routes
 
     |Column\_name     |       Column\_type    |    Column\_desc|
     |-------------------|-----------------------|------------------|
@@ -193,7 +193,7 @@ The data set is for fleets break downs (technical symptom cause) and operational
 
     30,30,1/1/1970,1/1/2036,30,South Federal Blvd
 
-5. **[Nom\_Vehicles](Nom_Vehicles.csv)** – Lists of all Revenue fleets
+5. **Nom\_Vehicles** – Lists of all Revenue fleets
 
     |Column\_name     |       Column\_type    |    Column\_desc|
     |-------------------|-----------------------|------------------|
