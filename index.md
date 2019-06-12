@@ -14,7 +14,7 @@ Submitters have a variety of options for data. Submitters may select to utilize 
 
 Submissions will be scored by Committee members and a select group will be invited to participate in the January 2020 Challenge at the TRB Annual Meeting. At the Annual Meeting, selected finalists will make a 5-minute presentation and present during a poster session.  Winners to be announced during TRB Annual Meeting.
 
-#Timeline: 
+# Timeline: 
 
 * **August 1, 2019** - Initial Submittal Due 
 * **September 30, 2019** - Selected Finalists invited to present at the 2020 TRB Annual Meeting
@@ -23,7 +23,7 @@ Submissions will be scored by Committee members and a select group will be invit
 
 # What to Submit
 
-Email the name of your point of contact and a zip file by August 1, 2019 to [mailto:transitperformancechallenge@gmail.com](transitperformancechallenge@gmail.com) containing the following: 
+Email the name of your point of contact and a zip file by August 1, 2019 to [transitperformancechallenge@gmail.com](mailto:transitperformancechallenge@gmail.com) containing the following: 
 
 ## An innovative performance product
 
