@@ -47,11 +47,16 @@ The Committee will ask selected finalists to provide the following by December 1
 
 For this challenge, TRB will provide each finalist with a 30 inch (76.2 cm) high by 40 inch (101.6 cm) wide blank foam core board and an easel. The board can be rotated to accommodate 40 inch (101.6 cm) high by 30 inch (76.2 cm) wide presentation. Push pins will also be provided. For those interested in bringing computers to display your visualization, we suggest bringing a laptop or tablet (tables will be provided).
 
-**If needed, Committee representatives will be available for one 30-minute call in preparation for the January 2020 TRB Annual Meeting.** See judging criteria and resources on the Challenge Website (shown below).
+**If needed, Committee representatives will be available for one 30-minute call in preparation for the January 2020 TRB Annual Meeting.** See judging criteria and resources on the Challenge Website.
 
 # Results and Awards
 
 Winners will be announced during the January 2020 TRB Annual Meeting in Washington, DC.
+
+# Sample Data
+
+* [Metro Transit MN](sample_metro_transit_mn)
+* [RTD Denver](sample_RTD_denver)
 
 # Sponsoring Committees/Sub Committees
 
