@@ -2,13 +2,15 @@
 title: 2020 TRB Innovations in Transit Performance Measurement Challenge
 ---
 
+**[pdf version here](TRB_Transit_Performance_Challenge_Flyer_2020.pdf)**
+
 # Objective
 
 The challenge aims to advance the use of data by transit agencies to inform decisions, and encourage young people to participate in TRB. Submitters are encouraged to develop innovative approaches to analyzing data and communicating results. The challenge aims to advance and share best practices in data and visualization-driven decision-making for transit agencies. This challenge also aims to encourage the next generation of professionals, students, and academics to participate in TRB. We welcome diversity in thought and action - so, we are especially interested in receiving submissions from Africa, Asia-Pacific, Europe, and Central/South America. Submitters are encouraged to develop and share innovative approaches to analyzing data and communicating results.
 
 # Data Description
 
-Submitters have a variety of options for data. Submitters may select to utilize data from within the agency he/she works. Alternatively, submitters are welcome to utilize publically-available data via API/GTFS feeds, data provided on this challenge’s github site or from other challenges. Submitters have a variety of options for data. Submitters may select to utilize public transportation data available within the agency he/she works; data that they have access to through their projects (with the appropriate approvals); or data that they have collected/licensed specifically for the challenge. Alternatively, submitters are welcome to utilize publically-available data via API/GTFS feeds, data provided on this challenge’s github site or from other challenges.
+Submitters have a variety of options for data. Submitters may select to utilize data from within the agency he/she works. Alternatively, submitters are welcome to utilize publically-available data via API/GTFS feeds, data provided on this challenge’s github site or from other challenges. Submitters have a variety of options for data. Submitters may select to utilize public transportation data available within the agency he/she works; data that they have access to through their projects (with the appropriate approvals); or data that they have collected/licensed specifically for the challenge. Alternatively, submitters are welcome to utilize publically-available data via API/GTFS feeds, [data provided on this challenge’s github site](#sample-data) or from other challenges.
 
 # Challenge Format
 
